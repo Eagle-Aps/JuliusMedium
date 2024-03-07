@@ -1,0 +1,42 @@
+body {
+    /* background-color: rgb(3, 3, 61); */
+    padding-top:  15%;
+    text-align: center;
+    color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("julius.jpg");
+}
+
+h1 {
+    padding: 25px;
+}
+
+.nome {
+    height: 25px;
+    width: 400px;
+    
+}
+
+img {
+    width: 80px;
+    border: 1px solid;
+    border-color: beige;
+}
+.nota{
+    height: 25px;
+    width: 50px;
+}
+
+button {
+
+    height:35px;
+    width: 80px;
+    background-color: rgb(39, 122, 122);
+    color: aliceblue;
+    border: 1px solid;
+    border-color: beige;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgb(22,63,63);
+}
